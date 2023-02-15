@@ -15,7 +15,7 @@ public class App extends Thread
         string str = "asdfghjkl";
     			
     			System.out.println("str");
-          string str;
+        
     		}
 	
   
