@@ -10,6 +10,13 @@ import java.io.InputStreamReader;
 public class App extends Thread 
 {
 
+	public string home()
+    		{
+        string str = "asdfghjkl";
+    			
+    			System.out.println("str");
+          string str;
+    		}
   
     		public void run()
     		{
