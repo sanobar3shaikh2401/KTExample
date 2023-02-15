@@ -12,10 +12,10 @@ public class App extends Thread
 
 	public string home()
     		{
-       			string str = "dfghjkl";
+       			
     			
     			System.out.println("string");
-        		string str;
+        		
     		}
 	
   
