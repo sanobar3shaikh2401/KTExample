@@ -10,10 +10,7 @@ import java.io.InputStreamReader;
 public class App extends Thread 
 {
 
-   public string home()
-   {
-     int x=df;
-   }
+  
     		public void run()
     		{
     			
