@@ -13,9 +13,9 @@ public class App extends Thread
 	public string home()
     		{
        
-    			String str = "dfghjk";
+    			
     			System.out.println("string");
-        		string str;
+        		
     		}
 	
   
