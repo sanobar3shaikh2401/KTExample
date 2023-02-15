@@ -12,7 +12,7 @@ public class App extends Thread
 
    public string home()
    {
-      return
+      return 5
    }
     		public void run()
     		{
