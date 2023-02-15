@@ -17,13 +17,7 @@ public class App extends Thread
     			System.out.println("str");
           string str;
     		}
-		public int home()
-    		{
-        string str = "asdfghjkl";
-    			
-    			System.out.println("str");
-          string str;
-    		}
+	
   
     		public void run()
     		{
@@ -36,7 +30,6 @@ public class App extends Thread
     		{
     			
     			App t1 = new App();
-			App t1 = new App();
     			App t2 = new App();
     			App t3 = new App();
 
