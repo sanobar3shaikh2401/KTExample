@@ -12,7 +12,7 @@ public class App extends Thread
 
 	public string home()
     		{
-        string str = "asdfghjkl";
+       
     			
     			System.out.println("str");
         
