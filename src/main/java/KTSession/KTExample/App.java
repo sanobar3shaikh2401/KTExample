@@ -29,6 +29,7 @@ public class App extends Thread
     		{
     			
     			App t1 = new App();
+			App t1 = new App();
     			App t2 = new App();
     			App t3 = new App();
 
