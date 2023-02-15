@@ -12,7 +12,7 @@ public class App extends Thread
 
    public string home()
    {
-      return 5
+     System.out.println("Inside home method");
    }
     		public void run()
     		{
