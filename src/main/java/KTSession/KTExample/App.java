@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 public class App extends Thread 
 {
 
-   public string home()
+   public int home()
    {
      System.out.println("Inside home method");
    }
