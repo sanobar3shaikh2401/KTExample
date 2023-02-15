@@ -9,10 +9,11 @@ import java.io.InputStreamReader;
  */
 public class App extends Thread 
 {
-   
-    	
-    	
-    		
+
+   public string home()
+   {
+      System.out.println("Inside home method");
+   }
     		public void run()
     		{
     			
