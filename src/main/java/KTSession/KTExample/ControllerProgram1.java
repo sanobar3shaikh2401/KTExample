@@ -1,4 +1,4 @@
-package com.program1;
+package KTSession.KTExample;
 
 public class ControllerProgram1 {
 
